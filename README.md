@@ -1,6 +1,6 @@
 ## H-Args
 
-Test wildcard
+#### // Fish Shell (wildcard)
 
 ```bash
 $ h-args https://www.youtube.com/watch?v=_g-dyXWUov8
